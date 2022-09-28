@@ -1,6 +1,7 @@
 # Student-enrolment-system
 
 Student enrolment system that allows users to personal information and courses into the database. 
+
 Designed in C. 
 
 
